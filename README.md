@@ -1,2 +1,2 @@
-# udacityLandingPage
-JavaScript Functionality for a navigation of a Landing Page
+# udacityLandingPage  
+JavaScript DOM manipulation for the navigation of a Landing Page
